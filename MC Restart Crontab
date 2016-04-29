@@ -1,0 +1,1 @@
+0 */8 * * * /home/minecraft/restart.sh > /dev/null 2>&1
